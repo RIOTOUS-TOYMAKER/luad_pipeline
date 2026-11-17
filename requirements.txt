@@ -1,0 +1,16 @@
+torch>=2.0
+torchvision>=0.15
+lightning>=2.0
+torchstain>=1.4.1
+captum>=0.7
+scikit-learn>=1.1
+numpy>=1.23
+Pillow>=9.0
+matplotlib>=3.6
+tensorboard>=2.10
+pandas>=1.5
+opencv-python>=4.7
+scipy>=1.9
+scikit-image>=0.20
+shapely>=2.0
+tiatoolbox>=1.6
