@@ -30,7 +30,7 @@ weights or datasets.
 
 ## License
 
-Copyright (C) 2026 [COPYRIGHT HOLDER]
+Copyright (C) 2026 Ryutaro Sekimoto
 
 Except where otherwise noted, the original source code in this repository
 is licensed under the GNU General Public License version 3 only
